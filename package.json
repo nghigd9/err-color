@@ -1,7 +1,7 @@
 {
   "name": "err-color",
-  "version": "1.0.5",
-  "description": "Logging errors with multi-color filename and line number",
+  "version": "1.0.6",
+  "description": "Auto Logging errors with multi-color filename and line number",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
